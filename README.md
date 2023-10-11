@@ -10,15 +10,15 @@
   - [Web Programming with Python and Javascript](https://cs50.harvard.edu/web/2020/)
 - 🤝 Looking forward to collaborating with like-minded innovators at [Hack The Valley](https://hackthevalley.io/)
 - 👨‍💻 My projects, experience, and achievements: [Dan&#39;s Portfolio](https://danmxli.vercel.app/)
-- 📫 My email: [danmuxingli@gmail.com](danmuxingli@gmail.com) or [d22li@uwaterloo.ca](d22li@uwaterloo.ca)
+- 📫 My email: [danmuxingli@gmail.com](mailto:danmuxingli@gmail.com) or [d22li@uwaterloo.ca](mailto:d22li@uwaterloo.ca)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://devpost.com/danmxli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://devpost.com/danmxli" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/danli591/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/danli591/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/591_fj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/591_fj/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uchrc7in_npkkguqofuctwhq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uchrc7in_npkkguqofuctwhq" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/danmxli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/danmxli/" height="30" width="40" /></a>
+<a href="https://devpost.com/danmxli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://devpost.com/danmxli" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/danli591/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/danli591/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/591_fj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/591_fj/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UChRC7In_NPKkguqoFUCtwHQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uchrc7in_npkkguqofuctwhq" height="30" width="40" /></a>
+<a href="https://leetcode.com/danmxli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/danmxli/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
