@@ -6,9 +6,7 @@
 - 🔭 About Me:
   - Program of Study | Computer Engineering @ [UWaterloo](https://uwaterloo.ca/)
   - Prev. Internship | Automation Developer @ [Onlia Insurance](https://www.onlia.ca/)
-- 🌱 I'm currently completing certificates in:
-  - [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python)
-  - [Web Programming with Python and Javascript](https://cs50.harvard.edu/web/2020/)
+- 🌱 I'm currently building my Software as a Service, [Conduify](https://www.conduify.com/), an AI-powered interview simulator.
 - 📫 My email: [danmuxingli@gmail.com](mailto:danmuxingli@gmail.com) or [d22li@uwaterloo.ca](mailto:d22li@uwaterloo.ca)
 
 <p align="left">
