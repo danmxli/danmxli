@@ -1,12 +1,14 @@
 <img align="right" alt="Me" width="300" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" style="border-radius: 20px;">
-<h3 align="left">Builder</h3>
+<h3 align="left">Dan Li | Engineer | Builder</h3>
 
 [📄 Resume](https://danmxli.vercel.app/Base_Resume_1.pdf)
 
 - 🔭 About Me:
   - Program of Study | Computer Engineering @ [UWaterloo](https://uwaterloo.ca/)
   - Prev. Internship | Automation Developer @ [Onlia Insurance](https://www.onlia.ca/)
-- 🌱 I'm currently building my Software as a Service, [Conduify](https://www.conduify.com/), an AI-powered interview simulator.
+- 🌱 I'm building two AI-powered SaaS applications:
+  - [Conduify](https://www.conduify.com/), an interview simulator for tech jobs.
+  - [seePickle](https://github.com/danmxli/seePickle), an all-purpose productivity visualization tool.
 - 📫 My email: [danmuxingli@gmail.com](mailto:danmuxingli@gmail.com) or [d22li@uwaterloo.ca](mailto:d22li@uwaterloo.ca)
 
 <p align="left">
