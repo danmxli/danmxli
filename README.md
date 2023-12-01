@@ -1,6 +1,6 @@
 # 🔭 About Me:
 
-Program of Study | Computer Engineering @ Uwaterloo
+📚 Program of Study | Computer Engineering @ Uwaterloo
 
 📫 My email: [danmuxingli@gmail.com](mailto:danmuxingli@gmail.com) or [d22li@uwaterloo.ca](mailto:d22li@uwaterloo.ca)
   
