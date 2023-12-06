@@ -1,8 +1,8 @@
 # 🔭 About Me:
 
-📚 Program of Study | Computer Engineering @ UWaterloo
+📚 Computer Engineering @ UWaterloo
 
-📫 My email: [danmuxingli@gmail.com](mailto:danmuxingli@gmail.com) or [d22li@uwaterloo.ca](mailto:d22li@uwaterloo.ca)
+📫 Email: [danmuxingli@gmail.com](mailto:danmuxingli@gmail.com) or [d22li@uwaterloo.ca](mailto:d22li@uwaterloo.ca)
   
 🌱 I'm building two AI-powered SaaS applications:
 
