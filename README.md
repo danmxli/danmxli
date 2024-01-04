@@ -6,5 +6,5 @@
   
 🌱 Current Status | I'm building two AI-powered SaaS applications:
 
-- [Conduify](https://www.conduify.com/), an agent integrated interview guidance and response evaluation provider.
+- [Conduify](https://www.conduify.com/), an agent integrated interview preparation tool.
 - [seePickle](https://seepickle.vercel.app/), an all-purpose productivity visualization tool.
